@@ -10,9 +10,7 @@ print c
 '''
 
 
-
-
-
+# Map Funtion
 #map function with a function as argument
 
 pentaho_acl_authorize_list=("GrantedAuthorityEffectiveAclsResolver",
